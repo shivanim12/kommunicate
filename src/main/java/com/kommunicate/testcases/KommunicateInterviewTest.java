@@ -4,7 +4,7 @@ import com.kommunicate.pages.KommunicateHomePage;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-public class KommunicateTest1 extends BaseTest {
+public class KommunicateInterviewTest extends BaseTest {
 
     @BeforeTest
     public void setup() throws Throwable {
